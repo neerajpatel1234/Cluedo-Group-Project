@@ -16,11 +16,4 @@ This was a second-year university group project for a software development cours
 - IntelliJ IDE
 - Java Swing 
 
-## How to Run 
-
-1. Download Zip File.
-2. Open in IDE using AZUL 20 JDK (recommended).
-3. Open GUI Class and run.
-4. Enjoy !!! 
-
 
